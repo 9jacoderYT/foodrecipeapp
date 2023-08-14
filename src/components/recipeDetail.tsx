@@ -1,6 +1,4 @@
-import { Description } from "@mui/icons-material";
 import React, { useState } from "react";
-import parse from "html-react-parser";
 
 type RecipeProps = {
   title: string;
